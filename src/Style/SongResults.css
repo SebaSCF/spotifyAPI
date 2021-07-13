@@ -1,0 +1,12 @@
+.songItems{
+  display: flex;
+  flex: 1;
+
+}
+
+.songList{
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto !important;
+
+}
